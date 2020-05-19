@@ -1,1 +1,1 @@
-サル先生のGitコマンド
+Git tutrorial for wada.
