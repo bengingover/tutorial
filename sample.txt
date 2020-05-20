@@ -1,2 +1,3 @@
 Git tutrorial for wada.
 add: add the explanation for "add"
+commit: record the status of index
