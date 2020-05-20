@@ -1,1 +1,2 @@
 Git tutrorial for wada.
+add: add the explanation for "add"
